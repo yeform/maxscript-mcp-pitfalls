@@ -1,0 +1,10 @@
+# 本地/临时
+*.bak
+*.bak-*
+*.tmp
+*~
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
